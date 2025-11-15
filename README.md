@@ -1,11 +1,9 @@
-<div align= "center">
-  
-## Hi there 👋 I'm ByeongIl Yoon
+# Hi there 👋 I'm ByeongIl Yoon
 <p>
   <img src="https://img.shields.io/badge/justbrand101@gmail.com-EA4335?style=flat-square&logo=maildotru&logoColor=white"/>
 </p>
 
-## Tech Stacks
+# Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/flutter-0053CC?style=flat-square&logo=flutter&logoColor=white"/>
@@ -18,19 +16,16 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-byeongil&theme=dark&show_icons=true)
-</div>
 
-<!--
-**yoon-byeongil/yoon-byeongil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Career & Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### (韓国) 水原大學校 情報セキュリティ学科
+- 期限 : 2019.03 ~ 2021.01
+
+#### (韓国) 海軍 情報セキュリティ兵
+- 期限 : 2021.01 ~ 2022.09
+
+#### (日本) 日本電子専門学校
+- 期限 : 2025.04 ~ 
