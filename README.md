@@ -1,4 +1,4 @@
-# Hi there 👋 I'm ByeongIl Yoon
+# I'm ByeongIl Yoon 👋
 <p>
   <img src="https://img.shields.io/badge/justbrand101@gmail.com-EA4335?style=flat-square&logo=maildotru&logoColor=white"/>
 </p>
@@ -19,7 +19,7 @@
 
 ---
 
-### Career & Education
+### IT Career & Education
 
 #### (韓国) 水原大學校 情報セキュリティ学科
 - 期間 : 2019.03 ~ 2021.01
